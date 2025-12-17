@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 About Me<br>I’m a passionate web developer focused on creating clean, responsive, and user-friendly web experiences. I enjoy experimenting with new ideas, building small apps, and improving my skills through real-world projects.<br><br>🔭 Currently working on SubhaMax App Review<br>🌱 Learning and improving HTML, CSS, JavaScript, PHP, Java, Kotlin, C & Python<br>💡 Interested in UI/UX, creative web ideas & productivity tools<br>🎯 Goal: Grow as a full-stack developer
+I’m a passionate web developer focused on creating clean, responsive, and user-friendly web experiences. I enjoy experimenting with new ideas, building small apps, and improving my skills through real-world projects.<br><br>🔭 Currently working on SubhaMax App Review<br>🌱 Learning and improving HTML, CSS, JavaScript, PHP, Java, Kotlin, C & Python<br>💡 Interested in UI/UX, creative web ideas & productivity tools<br>🎯 Goal: Grow as a full-stack developer
 
 
 ## 🌐 Socials:
