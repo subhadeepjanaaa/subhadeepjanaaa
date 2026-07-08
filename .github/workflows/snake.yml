@@ -1,8 +1,8 @@
 name: Generate Snake & Trophy
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:          # lets you trigger it manually too
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -23,12 +23,12 @@ jobs:
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           username: subhadeepjanaaa
-          output_path: dist/trophy.svg
+          file: dist/trophy.svg
           theme: tokyonight
-          no-frame: "true"
-          row: "1"
-          column: "6"
+          max-cols: 6
+          no-frame: true
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
