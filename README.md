@@ -18,7 +18,7 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/code.gif"/>
 
-- 🔭 Currently building **SubhaMax App Review**
+- 🔭 Currently building **ESP32 GSM Smart Security System**
 - 🤖 Designing **AgentOS-X** — a multi-agent AI architecture (in progress)
 - 🎯 Actively looking for a **full-stack developer internship / role**
 - 📫 Reach me at **subhadeep@novairasolution.com**
@@ -70,10 +70,10 @@ Personal developer portfolio — HTML/CSS/JS, single responsive page.
 </td>
 <td width="50%">
 
-### 📱 [SubhaMax App Review](https://github.com/subhadeepjanaaa/SubhaMax-App-Review)
-An app review platform, actively in development.
+### 📱 [ESP32 GSM Smart Security System](https://github.com/subhadeepjanaaa/ESP32-GSM-Smart-Security-System)
+Advanced ESP32 Smart Security System with GSM Calling, SMS Alert, RTC Time Control, PIR Motion Detection, Flame Detection, Vibration Detection, Door Monitoring and Smart Fan Automation.
 
-`In Development`
+`Completed`
 
 </td>
 </tr>
@@ -93,11 +93,9 @@ Self-initiated systems design project: a full multi-agent AI enterprise architec
 
 <div align="center">
 
-<a href="https://leetcode.com/[REPLACE-your-username]"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://codeforces.com/profile/[REPLACE-your-username]"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://hackerrank.com/[REPLACE-your-username]"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-
-<sub>*(Placeholder links — if you don't have a profile on any of these, delete that badge rather than leave it broken.)*</sub>
+<a href="https://leetcode.com/u/subhadeepjanaaa/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codeforces.com/profile/subhadeepjana"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://hackerrank.com/profile/subhadeep_lava"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 
 </div>
 
@@ -131,22 +129,10 @@ Self-initiated systems design project: a full multi-agent AI enterprise architec
 <div align="center">
 
 <!-- Replace with your real blog RSS via dev.to/hashnode, or delete this whole section if you don't blog -->
-<a href="https://dev.to/[REPLACE-your-username]"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-<a href="https://hashnode.com/@[REPLACE-your-username]"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-
-<sub>*(No blog yet? Delete this section — an empty badge looks worse than no section.)*</sub>
+<a href="https://dev.to/subhadeepjana"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://hashnode.com/@subhadeepjana"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 
 </div>
-
-## 💬 What People Say
-
-> *"[Add a real quote from a mentor, teammate, or client here once you have one.]"*
-> — **[Name, Role]**
-
-> *"[Second placeholder — replace or remove.]"*
-> — **[Name, Role]**
-
-<sub>*(Template only — don't publish placeholder quotes as if they're real. Swap in genuine feedback when you have it, or delete this section for now.)*</sub>
 
 ## ☕ Support My Work
 
