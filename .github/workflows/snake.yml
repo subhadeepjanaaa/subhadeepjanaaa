@@ -1,4 +1,4 @@
-name: Generate Snake & Trophy
+name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -19,17 +19,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          username: subhadeepjanaaa
-          file: dist/trophy.svg
-          theme: tokyonight
-          max-cols: 6
-          no-frame: true
-
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
