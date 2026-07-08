@@ -1,5 +1,4 @@
-name: Generate Snake Animation
-
+name: Generate Snake & Trophy
 on:
   schedule:
     - cron: "0 */12 * * *"   # runs every 12 hours
@@ -7,10 +6,8 @@ on:
   push:
     branches:
       - main
-
 permissions:
   contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -22,6 +19,16 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: subhadeepjanaaa
+          output_path: dist/trophy.svg
+          theme: tokyonight
+          no-frame: "true"
+          row: "1"
+          column: "6"
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
